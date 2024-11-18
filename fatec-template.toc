@@ -1,0 +1,11 @@
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\setlength {\parskip }{\z@ plus\p@ }\listsfontsize 
+\contentsline {section}{Diagrama de Caso de Uso}{3}{section*.3}%
+\contentsline {section}{Modelo conceitual}{4}{section*.5}%
+\contentsline {section}{Modelo Lógico}{4}{section*.7}%
+\contentsline {section}{Diagrama de Rede}{5}{section*.9}%
+\contentsline {section}{Canva}{5}{section*.11}%
